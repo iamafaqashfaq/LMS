@@ -1,8 +1,8 @@
 <center>
 		<footer>
 		
-		<p>HUIC Learning Management System Copyright 2019</p>
-			<!-- <p>Developed By: HUIC-RZB</p> -->
+		<p>NCBA Learning Management System Copyright 2019</p>
+			<!-- <p>Developed By: NCBA-RZB</p> -->
 		</footer>
 </center>
 

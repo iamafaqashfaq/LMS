@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <title>HLCMS</title>
-		<meta name="description" content="Hamdard Learning Content Management System">
-		<meta name="keywords" content="HLCMS">
+        <title>NCBALMS</title>
+		<meta name="description" content="NCBA&E Learning Content Management System">
+		<meta name="keywords" content="NCBALMS">
 		<meta name="author" content="BZR">
 		<meta charset="UTF-8">
         <!-- Bootstrap -->

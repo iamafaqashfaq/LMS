@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <title>HLMS</title>
+        <title>NCBALMS</title>
 		<meta name="description" content="Learning Management System">
 		<meta name="keywords" content="LMS">
 		<meta name="author" content="Zunair Kaleem">

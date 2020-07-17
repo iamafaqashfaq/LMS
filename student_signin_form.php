@@ -41,7 +41,7 @@
 								data: formData,
 								success: function(html) {
 									if (html == 'true') {
-										$.jGrowl("Welcome to HLMS Learning Management System", {
+										$.jGrowl("Welcome to NCBALMS Learning Management System", {
 											header: 'Sign up Success'
 										});
 										var delay = 2000;

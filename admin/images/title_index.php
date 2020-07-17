@@ -14,7 +14,7 @@
 						<div class="span8">
 						
 								<div class="title">
-							<p class="chmsc">Hamdard University Islamabad Campus</p>
+							<p class="chmsc">NCBA&E University RYK Campus</p>
 							<h3>
 
 							<p>LMS</p>
@@ -30,7 +30,7 @@
 						<div class="span12">
 						<br>
 								<div class="motto">
-												<p>HLCMS:</p>
+												<p>NCBALMS:</p>
 												<p>Excellence, Competence and Educational</p>
 												<p>Leadership in Science and Technology</p>
 								</div>		

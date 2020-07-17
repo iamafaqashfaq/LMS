@@ -35,7 +35,7 @@ body {
     margin: -146px auto !important;
     position: absolute;
 }
-		.hlcms{
+		.NCBALMS{
 			display:none;
 			
 		}
@@ -59,7 +59,7 @@ body {
 			float: none;
 			margin-top: 0px !important;
 		}
-		.hlcms {
+		.NCBALMS {
 			font-size: 35px !important;
 		}
 		#login .form-signin {
@@ -99,7 +99,7 @@ font-family: 'TR Century Gothic';
 body{
     background-color: rgba(0, 0, 0, 0) !important;
 }
-.hlcms{
+.NCBALMS{
 	font-family: 'TR Century Gothic';
 	font-weight: bold;
 	color: #135E34;
